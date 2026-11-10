@@ -1,0 +1,5 @@
+ultralytics
+huggingface_hub
+mss
+Pillow
+anthropic
